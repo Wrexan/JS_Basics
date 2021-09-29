@@ -8,7 +8,7 @@ Product = {
     products: [
         { id: 1, name: 'Ванная', price: 5000 }, 7,
         { id: 2, name: 'Диван', price: 5500 }, 5,
-        { id: 3, name: 'Шкаф', price: 5200 }, 5,
+        { id: 3, name: 'Шкаф', price: 4200 }, 5,
         { id: 4, name: 'Стул', price: 1450 }, 3,
         { id: 5, name: 'Полка', price: 850 }, 2,
         { id: 6, name: 'Стол', price: 2500 }, 9],
